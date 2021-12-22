@@ -1,6 +1,6 @@
 # Roblox-Pin-Bruteforcer
 A pin bruteforcer for roblox
-Made by 2v#0001. Discord here: https://dsc.gg/toxicaworld
+Made by 1 L0#1111. Discord here: https://dsc.gg/toxicaworld
 # How to use
 1.) Install python if you haven't already: https://www.python.org/downloads/
 2.) Run the main.py file then enter your cookie.
